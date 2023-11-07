@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Chrometest(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="testCases.TC_002_Account_Registration_Failure">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Fail_Register"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_002_Account_Registration_Failure -->
+    </classes>
+  </test> <!-- Chrometest(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

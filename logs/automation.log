@@ -1,0 +1,82 @@
+15:23:03.589 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+15:23:06.479 [main] INFO  testCases.TC_001_Account_Registration - Attempting to move to to next Screen
+15:24:37.072 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+15:24:39.784 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+16:25:53.730 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+16:25:56.378 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+16:26:10.966 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+16:26:13.732 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+16:26:27.145 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+16:26:29.861 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+13:44:40.008 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+13:44:42.647 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+13:51:09.095 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+13:51:11.740 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:02:06.812 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+14:02:09.565 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:08:19.615 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+14:08:22.304 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:12:44.925 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+14:12:47.553 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:13:01.397 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+14:13:04.154 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:13:17.594 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+14:13:20.242 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:57:33.209 [main] INFO  testCases.TC_001_Account_Registration - Starting Test
+14:57:35.766 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+19:10:39.169 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+19:51:14.024 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+19:54:53.427 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+20:08:54.382 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+20:14:06.724 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+10:40:03.342 [main] INFO  testCases.TC_001_Account_Registration - Finished Test Case 1
+14:06:43.628 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+14:06:43.675 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+14:06:44.072 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+14:06:54.125 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+20:59:17.946 [main] INFO  testCases.TC_008_Attempt_To_Buy_Featured_Product - No match, test ending
+11:57:30.140 [main] INFO  testCases.TC_008_Attempt_To_Buy_Featured_Product - No match, test ending
+11:57:57.893 [main] INFO  testCases.TC_008_Attempt_To_Buy_Featured_Product - No match, test ending
+11:58:25.755 [main] INFO  testCases.TC_008_Attempt_To_Buy_Featured_Product - No match, test ending
+11:59:42.591 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+11:59:42.635 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+11:59:42.990 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+11:59:43.018 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+12:04:25.128 [main] INFO  testCases.TC_008_Attempt_To_Buy_Featured_Product - No match, test ending
+12:04:37.424 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+12:04:37.468 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+12:04:37.857 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+12:04:37.884 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+12:04:56.729 [main] INFO  testCases.TC_008_Attempt_To_Buy_Featured_Product - No match, test ending
+12:23:13.692 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+12:23:13.738 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+12:23:14.165 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+12:23:14.192 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+12:26:22.948 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+12:26:22.992 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+12:26:23.342 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+12:26:23.360 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+13:17:36.979 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+13:17:37.026 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+13:17:37.415 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+13:17:37.435 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+13:23:45.998 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+13:23:46.042 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+13:23:46.413 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+13:23:46.432 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+13:25:20.920 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+13:25:20.964 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+13:25:21.306 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+13:25:21.325 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+13:26:22.961 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+13:26:23.011 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+13:26:23.308 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+13:26:23.329 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+13:38:41.157 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+13:38:41.201 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+13:38:41.577 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+13:38:41.596 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+13:47:53.503 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+13:47:53.548 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+13:47:53.937 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+13:47:53.956 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
