@@ -10,8 +10,5 @@
         <module name="Selenium_Webdriver" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="New_Framework" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -80,3 +80,11 @@
 13:47:53.548 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
 13:47:53.937 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
 13:47:53.956 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+17:07:58.990 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+17:07:59.036 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+17:07:59.390 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+17:07:59.410 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
+10:52:13.830 [main] INFO  testCases.TC_007_Wishlist - Clicked Logo
+10:52:13.878 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist
+10:52:14.259 [main] INFO  testCases.TC_007_Wishlist - Clicked MacWishlist Without being Logged in
+10:52:14.277 [main] INFO  testCases.TC_007_Wishlist - Made it to Wishlist Page
